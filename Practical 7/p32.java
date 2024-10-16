@@ -29,5 +29,7 @@ public class p32 {
         Runnable runnable = new HelloWorldRunnable();
         Thread thread2 = new Thread(runnable);
         thread2.start();
+
     }
 }
+/*ans is */
